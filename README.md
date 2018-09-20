@@ -1,4 +1,4 @@
-# Docker container for building other dockers
+# Docker container for CI/CD of react js app
 
 Build on ubuntu 16.04
 
